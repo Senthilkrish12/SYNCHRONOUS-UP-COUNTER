@@ -1,7 +1,7 @@
 Developed by: SENTHIL RAJ G
 RegisterNumber: 212224100054
 
-### SYNCHRONOUS-UP-COUNTER
+### SYNCHRONOUS UP COUNTER
 
 **AIM:**
 
